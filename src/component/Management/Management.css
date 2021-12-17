@@ -1,0 +1,33 @@
+.manageContainer h2 
+{
+    text-align: center;
+}
+.manageInfo
+{
+    font-weight: 700;
+    padding-left:30px;
+}
+.manageInfo img 
+{
+    width:30px;
+    height:auto;
+}
+.userBox
+{
+    display:flex;
+}
+.useL
+{
+    width:35%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.useR
+{
+    width:60%;
+}
+.manageInfo p:nth-child(2)
+{
+    padding-left:83px;
+}
